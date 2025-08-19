@@ -1,7 +1,7 @@
 {
     "version":            "1.2",
     "project_name":       "02_led_3",
-    "project_version":    "c2de2c6-dirty",
+    "project_version":    "feaadbf-dirty",
     "project_path":       "U:/2399975528/workspace/02_led_3",
     "idf_path":           "U:/2399975528/esp/v5.3.3/esp-idf",
     "build_dir":          "U:/2399975528/workspace/02_led_3/build",
