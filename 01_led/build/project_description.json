@@ -1,7 +1,7 @@
 {
     "version":            "1.2",
     "project_name":       "00_basic",
-    "project_version":    "1ba8467-dirty",
+    "project_version":    "32a0aa5-dirty",
     "project_path":       "U:/2399975528/workspace/01_led",
     "idf_path":           "U:/2399975528/esp/v5.3.3/esp-idf",
     "build_dir":          "U:/2399975528/workspace/01_led/build",
