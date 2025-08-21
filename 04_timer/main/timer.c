@@ -21,14 +21,13 @@ void esptim_int_init(uint64_t tps)
 
 } 
 
-/** 
- * @brief       定时器回调函数 
- * @param       arg: 不携带参数 
- * @retval      无 
- */ 
+
+uint32_t time=0;
+
 void esptim_callback(void *arg) 
-{ 
-    LED_TOGGLE(); 
+{
+    time++;
+    LED_TOGGLE(); /* 切换LED状态 */
 } 
 
 

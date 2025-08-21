@@ -7,9 +7,8 @@
 
 void app_main(void)
 {
-    uint32_t times = 0;
     led_init();
-    esptim_int_init(1000000); // 初始化高精度定时器，每秒触发一次
+    esptim_int_init(100000); // 初始化高精度定时器，每秒触发一次
 
 
     while(1)
@@ -26,6 +25,7 @@ void app_main(void)
         // LED(LED2_GPIO_PIN,0);
         // vTaskDelay(pdMS_TO_TICKS(100));
         // LED(LED3_GPIO_PIN,0);
+        printf("time:%lu\r\n", time);
         vTaskDelay(pdMS_TO_TICKS(100));
         // times++;
     }
