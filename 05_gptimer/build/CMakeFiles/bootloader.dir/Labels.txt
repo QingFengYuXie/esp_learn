@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+U:/2399975528/workspace/05_gptimer/build/CMakeFiles/bootloader
+U:/2399975528/workspace/05_gptimer/build/CMakeFiles/bootloader.rule
+U:/2399975528/workspace/05_gptimer/build/CMakeFiles/bootloader-complete.rule
+U:/2399975528/workspace/05_gptimer/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+U:/2399975528/workspace/05_gptimer/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+U:/2399975528/workspace/05_gptimer/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+U:/2399975528/workspace/05_gptimer/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+U:/2399975528/workspace/05_gptimer/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+U:/2399975528/workspace/05_gptimer/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+U:/2399975528/workspace/05_gptimer/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
